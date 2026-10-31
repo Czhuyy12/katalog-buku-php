@@ -1,0 +1,26 @@
+<?php
+return [
+    'title' => 'Katalog Buku',
+    'welcome' => 'Selamat Datang',
+    'login' => 'Masuk',
+    'logout' => 'Keluar',
+    'username' => 'Nama Pengguna',
+    'password' => 'Kata Sandi',
+    'new_password' => 'Kata Sandi Baru',
+    'secret_key' => 'Kunci Rahasia (Secret Key)',
+    'forgot_password' => 'Lupa Kata Sandi?',
+    'reset_password' => 'Atur Ulang Password',
+    'back_to_login' => 'Kembali ke Login',
+    'add_data' => 'Tambah Buku',
+    'edit_data' => 'Ubah Buku',
+    'delete' => 'Hapus',
+    'edit' => 'Ubah',
+    'save' => 'Simpan',
+    'cancel' => 'Batal',
+    'judul' => 'Judul Buku',
+    'penulis' => 'Penulis',
+    'penerbit' => 'Penerbit',
+    'tahun' => 'Tahun Terbit',
+    'action' => 'Aksi',
+    'confirm_delete' => 'Apakah Anda yakin ingin menghapus data ini?'
+];

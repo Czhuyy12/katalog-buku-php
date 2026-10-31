@@ -1,0 +1,26 @@
+<?php
+return [
+    'title' => 'Book Catalog',
+    'welcome' => 'Welcome',
+    'login' => 'Sign In',
+    'logout' => 'Logout',
+    'username' => 'Username',
+    'password' => 'Password',
+    'new_password' => 'New Password',
+    'secret_key' => 'Secret Key',
+    'forgot_password' => 'Forgot Your Password?',
+    'reset_password' => 'Reset Password',
+    'back_to_login' => 'Back to Login',
+    'add_data' => 'Add Book',
+    'edit_data' => 'Edit Book',
+    'delete' => 'Delete',
+    'edit' => 'Edit',
+    'save' => 'Save',
+    'cancel' => 'Cancel',
+    'judul' => 'Book Title',
+    'penulis' => 'Author',
+    'penerbit' => 'Publisher',
+    'tahun' => 'Publication Year',
+    'action' => 'Action',
+    'confirm_delete' => 'Are you sure you want to delete this item?'
+];
